@@ -38,7 +38,7 @@ export function Hero() {
             <div className={`space-y-6 sm:space-y-8 ${isLoaded ? "animate-fade-in-up" : "opacity-0"}`}>
               <div className="inline-flex items-center gap-2 bg-accent/10 text-accent px-3 sm:px-4 py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-medium">
                 <TrendingUp size={14} className="sm:w-4 sm:h-4" />
-                <span>{"Taux à partir de 2.9% TAEG"}</span>
+                <span>{"Taux à partir de 2 & 3% TAEG"}</span>
               </div>
 
               <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight text-balance">
